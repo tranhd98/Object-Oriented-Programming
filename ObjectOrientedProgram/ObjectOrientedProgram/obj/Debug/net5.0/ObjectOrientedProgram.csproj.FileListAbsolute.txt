@@ -1,0 +1,15 @@
+/Users/hungtran/Projects/ObjectOrientedProgram/ObjectOrientedProgram/bin/Debug/net5.0/ObjectOrientedProgram.deps.json
+/Users/hungtran/Projects/ObjectOrientedProgram/ObjectOrientedProgram/bin/Debug/net5.0/ObjectOrientedProgram.runtimeconfig.json
+/Users/hungtran/Projects/ObjectOrientedProgram/ObjectOrientedProgram/bin/Debug/net5.0/ObjectOrientedProgram.runtimeconfig.dev.json
+/Users/hungtran/Projects/ObjectOrientedProgram/ObjectOrientedProgram/bin/Debug/net5.0/ObjectOrientedProgram.dll
+/Users/hungtran/Projects/ObjectOrientedProgram/ObjectOrientedProgram/bin/Debug/net5.0/ref/ObjectOrientedProgram.dll
+/Users/hungtran/Projects/ObjectOrientedProgram/ObjectOrientedProgram/bin/Debug/net5.0/ObjectOrientedProgram.pdb
+/Users/hungtran/Projects/ObjectOrientedProgram/ObjectOrientedProgram/obj/Debug/net5.0/ObjectOrientedProgram.csproj.AssemblyReference.cache
+/Users/hungtran/Projects/ObjectOrientedProgram/ObjectOrientedProgram/obj/Debug/net5.0/ObjectOrientedProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hungtran/Projects/ObjectOrientedProgram/ObjectOrientedProgram/obj/Debug/net5.0/ObjectOrientedProgram.AssemblyInfoInputs.cache
+/Users/hungtran/Projects/ObjectOrientedProgram/ObjectOrientedProgram/obj/Debug/net5.0/ObjectOrientedProgram.AssemblyInfo.cs
+/Users/hungtran/Projects/ObjectOrientedProgram/ObjectOrientedProgram/obj/Debug/net5.0/ObjectOrientedProgram.csproj.CoreCompileInputs.cache
+/Users/hungtran/Projects/ObjectOrientedProgram/ObjectOrientedProgram/obj/Debug/net5.0/ObjectOrientedProgram.dll
+/Users/hungtran/Projects/ObjectOrientedProgram/ObjectOrientedProgram/obj/Debug/net5.0/ref/ObjectOrientedProgram.dll
+/Users/hungtran/Projects/ObjectOrientedProgram/ObjectOrientedProgram/obj/Debug/net5.0/ObjectOrientedProgram.pdb
+/Users/hungtran/Projects/ObjectOrientedProgram/ObjectOrientedProgram/obj/Debug/net5.0/ObjectOrientedProgram.genruntimeconfig.cache
