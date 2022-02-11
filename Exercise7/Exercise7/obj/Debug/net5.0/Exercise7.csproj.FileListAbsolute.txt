@@ -1,0 +1,15 @@
+/Users/hungtran/Projects/Exercise7/Exercise7/bin/Debug/net5.0/Exercise7.deps.json
+/Users/hungtran/Projects/Exercise7/Exercise7/bin/Debug/net5.0/Exercise7.runtimeconfig.json
+/Users/hungtran/Projects/Exercise7/Exercise7/bin/Debug/net5.0/Exercise7.runtimeconfig.dev.json
+/Users/hungtran/Projects/Exercise7/Exercise7/bin/Debug/net5.0/Exercise7.dll
+/Users/hungtran/Projects/Exercise7/Exercise7/bin/Debug/net5.0/ref/Exercise7.dll
+/Users/hungtran/Projects/Exercise7/Exercise7/bin/Debug/net5.0/Exercise7.pdb
+/Users/hungtran/Projects/Exercise7/Exercise7/obj/Debug/net5.0/Exercise7.csproj.AssemblyReference.cache
+/Users/hungtran/Projects/Exercise7/Exercise7/obj/Debug/net5.0/Exercise7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hungtran/Projects/Exercise7/Exercise7/obj/Debug/net5.0/Exercise7.AssemblyInfoInputs.cache
+/Users/hungtran/Projects/Exercise7/Exercise7/obj/Debug/net5.0/Exercise7.AssemblyInfo.cs
+/Users/hungtran/Projects/Exercise7/Exercise7/obj/Debug/net5.0/Exercise7.csproj.CoreCompileInputs.cache
+/Users/hungtran/Projects/Exercise7/Exercise7/obj/Debug/net5.0/Exercise7.dll
+/Users/hungtran/Projects/Exercise7/Exercise7/obj/Debug/net5.0/ref/Exercise7.dll
+/Users/hungtran/Projects/Exercise7/Exercise7/obj/Debug/net5.0/Exercise7.pdb
+/Users/hungtran/Projects/Exercise7/Exercise7/obj/Debug/net5.0/Exercise7.genruntimeconfig.cache
